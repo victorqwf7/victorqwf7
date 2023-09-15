@@ -1,14 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victor Hugo
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Victor Hugo
 ===================================================================================================================================
 
-Future Web Developer
+Futuro Desenvolvedor Web
 --------------------
 
 Estudando...
 
-* 🌍  I'm based in Brazil
-* ✉️  You can contact me at [victorqwf7@gmail.com](mailto:victorqwf7@gmail.com)
-* 🧠  I'm learning PHP
+* ✉️  Pode entrar em contato comigo em [victorqwf7@gmail.com](mailto:victorqwf7@gmail.com)
+* 🧠  Aprendendo PHP
 
 ### Skills
 
